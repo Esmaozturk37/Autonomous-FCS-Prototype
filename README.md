@@ -27,7 +27,6 @@ Projenin çalışma görüntüsünü aşağıdan izleyebilirsiniz:
 ## 🚀 Kurulum
 
 ### Backend (Python)
-
 ```bash
 cd backend_sensor_fusion
 pip install -r requirements.txt
