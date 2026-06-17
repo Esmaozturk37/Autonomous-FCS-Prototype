@@ -31,9 +31,10 @@ Projenin çalışma görüntüsünü aşağıdan izleyebilirsiniz:
 cd backend_sensor_fusion
 pip install -r requirements.txt
 python transmitter.py
+```
 cd frontend_hud
 cargo run
-
+```
 İletişim
 Geliştirici: Esma Öztürk
 
