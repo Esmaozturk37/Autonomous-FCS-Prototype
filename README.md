@@ -22,7 +22,7 @@ Bu proje, görsel verilerin yüksek hızlı işlenmesi ve bu verilerin otonom bi
 ## 📈 Demo
 
 Projenin çalışma görüntüsünü aşağıdan izleyebilirsiniz:
-[Buraya YouTube veya LinkedIn videonun linkini yapıştır]
+https://youtu.be/09CtildIM64 
 
 ## 🚀 Kurulum
 
