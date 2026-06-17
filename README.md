@@ -32,9 +32,13 @@ cd backend_sensor_fusion
 pip install -r requirements.txt
 python transmitter.py
 ```
+### Frontend (Rust)
+```bash
 cd frontend_hud
 cargo run
 ```
+
+
 İletişim
 Geliştirici: Esma Öztürk
 
