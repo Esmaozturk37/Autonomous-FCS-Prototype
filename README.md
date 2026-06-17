@@ -27,16 +27,14 @@ Projenin çalışma görüntüsünü aşağıdan izleyebilirsiniz:
 ## 🚀 Kurulum
 
 ### Backend (Python)
-
 ```bash
 cd backend_sensor_fusion
 pip install -r requirements.txt
 python transmitter.py
-
 cd frontend_hud
 cargo run
 
-📜 İletişim
+İletişim
 Geliştirici: Esma Öztürk
 
 LinkedIn: https://www.linkedin.com/in/esma-%C3%B6zt%C3%BCrk-5565aa373/
