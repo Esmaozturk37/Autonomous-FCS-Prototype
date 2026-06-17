@@ -32,6 +32,7 @@ cd backend_sensor_fusion
 pip install -r requirements.txt
 python transmitter.py
 
+Frontend (Rust)
 cd frontend_hud
 cargo run
 
