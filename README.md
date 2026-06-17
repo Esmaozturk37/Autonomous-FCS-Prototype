@@ -28,7 +28,6 @@ Haberleşme: Gerçek zamanlı veri iletimi için UDP protokolü.
 
 Projenin çalışma görüntüsünü aşağıdan izleyebilirsiniz:
 [Buraya YouTube veya LinkedIn videonun linkini yapıştır]
-
 🚀 Kurulum
 
 Backend (Python)
